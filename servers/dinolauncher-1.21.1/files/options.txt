@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:12
+renderDistance:24
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -157,7 +157,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.5
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
@@ -174,3 +174,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+
